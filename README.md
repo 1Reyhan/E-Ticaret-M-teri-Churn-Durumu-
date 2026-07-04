@@ -29,7 +29,6 @@ oluşturuldu.
 İlgili `.ipynb` dosyasını Jupyter Notebook veya Google Colab üzerinden açarak kodları inceleyebilirsiniz.
 
 
-![Sayısal Değişkenlerin Dağılım Analizi](images/1.png)
 ![Sayısal Değişkenlerin Dağılım Analizi](images/2.png)
 ![Sayısal Değişkenlerin Dağılım Analizi](images/3.png)
 ![Sayısal Değişkenlerin Dağılım Analizi](images/4.png)
